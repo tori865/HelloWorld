@@ -1,2 +1,2 @@
 # HelloWorld
-#this project is for study how to use Git and GitHub
+#this project is for studying how to use Git and GitHub
